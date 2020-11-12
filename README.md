@@ -2,7 +2,7 @@
 <p align="center">Pong Game developed using turtle graphics and Unity Engine</p>
 
 ### Pong using Unity Engine:  
-<img align="center" height="600" width="1200" src="https://i.imgur.com/kapoPbe.png"></img>  
+<img align="center" height="600" width="1200" src="https://i.imgur.com/SXTnHne.png"></img>  
 
 
 ### Pong in Python using Turtle module:  
